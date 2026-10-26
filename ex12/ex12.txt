@@ -1,0 +1,19 @@
+Enter number of students: 3
+Enter student name: Arun
+Mark attendance (P/A): P
+Enter student name: Bala
+Mark attendance (P/A): A
+Enter student name: Charan
+Mark attendance (P/A): P
+
+===== ATTENDANCE REPORT =====
+Student Name         Attendance     
+-----------------------------------
+Arun                 Present        
+Bala                 Absent         
+Charan               Present        
+-----------------------------------
+Total Students : 3
+Present        : 2
+Absent         : 1
+Attendance Percentage: 66.67%
